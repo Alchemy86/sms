@@ -1,0 +1,11 @@
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\bin\Debug\netcoreapp2.0\SmsApi.deps.json
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\bin\Debug\netcoreapp2.0\SmsApi.runtimeconfig.json
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\bin\Debug\netcoreapp2.0\SmsApi.runtimeconfig.dev.json
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\bin\Debug\netcoreapp2.0\SmsApi.dll
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\obj\Debug\netcoreapp2.0\SmsApi.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\obj\Debug\netcoreapp2.0\SmsApi.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\obj\Debug\netcoreapp2.0\SmsApi.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\obj\Debug\netcoreapp2.0\SmsApi.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\bin\Debug\netcoreapp2.0\SmsApi.pdb
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\obj\Debug\netcoreapp2.0\SmsApi.dll
+C:\Users\Aaron\source\repos\SmsApi\SmsApi\obj\Debug\netcoreapp2.0\SmsApi.pdb
